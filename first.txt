@@ -3,3 +3,5 @@ I believe in becoming a Master Git!
 Add a line.
 
 I change this file.
+
+I switch a new branch.
