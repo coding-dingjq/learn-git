@@ -6,4 +6,4 @@ I change this file.
 
 I switch a new branch.
 
-I add a line!
+I merge two branch!
